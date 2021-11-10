@@ -27,16 +27,16 @@ from userbot import CMD_HELP, bot, trgg
 from userbot.events import register
 
 KANGING_STR = [
-    "Using Witchery to kang this sticker...",
-    "Plagiarising hehe...",
-    "Inviting this sticker over to my pack...",
-    "Kanging this sticker...",
-    "Hey that's a nice sticker!\nMind if I kang?!..",
-    "hehe me stel ur stikér\nhehe.",
-    "Ay look over there (☉｡☉)!→\nWhile I kang this...",
-    "Roses are red violets are blue, kanging this sticker so my pacc looks cool",
-    "Imprisoning this sticker...",
-    "Mr.Steal Your Sticker is stealing this sticker... ",
+    "Using ping2109 pussy to kang this sticker...",
+    "Licking pussy hehe...",
+    "Inviting this sticker over to my pussy...",
+    "TachOS is licking...",
+    "Hey that's a nice pussy!\nMind if I fuck?!..",
+    "hehe me fukc ur stikér\nhehe.",
+    "Ay look over here!→\nWhile I fuck this...",
+    "Roses are dick violet are pussy, fucking this sticker so i can have a baby",
+    "fucking this sticker...",
+    "Mr.G610 user is licking this sticker... ",
 ]
 
 
