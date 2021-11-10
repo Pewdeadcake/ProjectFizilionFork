@@ -4,7 +4,7 @@
    <br>
 </p>
 
-# Fork of Project Fizilion
+# Fork of Luke's Fork of Project Fizilion
 
 ```
 #include <std/disclaimer.h>
@@ -60,7 +60,7 @@ wget https://raw.githubusercontent.com/PrajjuS/ProjectFizilion/demon/terminal_ge
 ### Deploy on Heroku
 Make sure you have an account of heroku and follow all the steps required.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/AbOuLfOoOoOuF/ProjectFizilionFork/tree/pruh"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FPewdeadcake%2FProjectFizilionFork&template=https%3A%2F%2Fgithub.com%2FPewdeadcake%2FProjectFizilionFork%2Ftree%2Fpruh"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Groups and Support
 
@@ -71,6 +71,7 @@ For further guide you can read this [Guide](https://frost2k5.games/ProjectFizili
 ## Credits
 
 Thanks: 
+* [Myself (a.k.a Pewdeadcake)](https://t.me/khoi2710) - Modder
 * [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
 * [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
 * [kandnub](https://github.com/kandnub) - TG-UserBot
