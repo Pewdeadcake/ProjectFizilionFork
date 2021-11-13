@@ -107,21 +107,21 @@ async def repeat(rep):
 async def repo_is_here(wannasee):
     """ For .repo command, just returns the repo URL. """
     await wannasee.edit(
-        "[Click here](https://github.com/FrosT2k5/ProjectFizilion) to open Fizilion's GitHub Repo."
+        "[Click here](https://github.com/Pewdeadcake/ProjectFizilionFork) to open Fizilion's GitHub Repo."
     )
 
 @register(outgoing=True, pattern="^\{trg}repo$".format(trg=trgg))
 async def repo_is_heree(wannaseee):
     """ For .repo command, just returns the repo URL. """
     await wannaseee.edit(
-        "[Click here](https://fizi.luuke.ml) to open my fork of Fizilion's GitHub Repo."
+        "[Click here](https://github.com/Pewdeadcake/ProjectFizilionFork) to open my fork of Fizilion's GitHub Repo."
     )
 
 @register(outgoing=True, pattern="^\{trg}deploy$".format(trg=trgg))
 async def repo_is_here(wannasee):
     """ For .deploy command, just returns the heroku deploying URL. """
     await wannasee.edit(
-        "[Click here](https://heroku.com/deploy?template=https://github.com/AbOuLfOoOoOuF/ProjectFizilionFork/tree/pruh) to deploy Fizilion Userbot on Heroku."
+        "[Click here](https://heroku.com/deploy?template=https://github.com/Pewdeadcake/ProjectFizilionFork/tree/pruh) to deploy Fizilion Userbot on Heroku."
     )
 
 @register(outgoing=True, pattern="^\{trg}support$".format(trg=trgg))
