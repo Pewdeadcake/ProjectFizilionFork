@@ -99,7 +99,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN") or None
 
 # Custom (forked) repo URL and BRANCH for updater.
 UPSTREAM_REPO_URL = (os.environ.get("UPSTREAM_REPO_URL")
-                     or "https://github.com/AbOuLfOoOoOuF/ProjectFizilionFork.git")
+                     or "https://github.com/Pewdeadcake/ProjectFizilionFork.git")
 UPSTREAM_REPO_BRANCH = os.environ.get("UPSTREAM_REPO_BRANCH") or "pruh"
 ###
 
@@ -139,7 +139,7 @@ ANTI_SPAMBOT_SHOUT = sb(os.environ.get("ANTI_SPAMBOT_SHOUT") or "False")
 ALIVE_NAME = os.environ.get("ALIVE_NAME") or None
 
 # Default .alive logo
-ALIVE_LOGO = str(os.environ.get("ALIVE_LOGO") or "https://github.com/AbOuLfOoOoOuF/ProjectFizilionFork/raw/pruh/resources/fizsmall.png")
+ALIVE_LOGO = str(os.environ.get("ALIVE_LOGO") or "https://github.com/Pewdeadcake/ProjectFizilionFork/raw/pruh/resources/fizsmall.png")
 
 # Custom Alive Message
 ALIVE_MESSAGE = str(os.environ.get("ALIVE_MESSAGE") or "")
