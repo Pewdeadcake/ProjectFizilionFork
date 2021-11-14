@@ -7,7 +7,7 @@ from userbot import CMD_HELP, trgg
 @register(outgoing=True, pattern="^\{trg}kill$".format(trg=trgg))
 async def kill_func(message):
     animation_chars = [
-        "fucking...",
+        "F U C K I N G...",
         "C u m m i n g g g g g",
         "(　･ิω･ิ)︻デ═一-->",
         "------>_____________",
@@ -16,7 +16,7 @@ async def kill_func(message):
         "------------------->",
         "------>;(^。^)ノ",
         "(￣ー￣) cummed",
-        "<b>Target get pregnant sucessfully (´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)</b>",
+        "<b>Target got pregnant sucessfully (´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)</b>",
     ]
     for i in range(10):
         await sleep(0.6)
