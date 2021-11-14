@@ -128,11 +128,11 @@ async def set_afk(afk_e):
             global BOTAFK
             afkmsg += " on bots"
             if string:
-                await afk_e.edit("Going AFK on bots!" f"\nReason: `{string}`")
+                await afk_e.edit("Im AFK From Now On on bots!" f"\nReason: `{string}`")
                 afkmsg += f"\n**Reason:**\n{string}"
                 aa = await bot.send_message(AFK_CHATID, f"/afk {string}")
             else:
-                await afk_e.edit("Going AFK on bots!")
+                await afk_e.edit("Im AFK From Now On on bots!")
                 aa = await bot.send_message(AFK_CHATID, "/afk")
             BOTAFK = True
             await tgbott.send_message(BOTLOG_CHATID, afkmsg)
@@ -146,10 +146,10 @@ async def set_afk(afk_e):
         global AFKREASON
         if string:
             AFKREASON = string
-            await afk_e.edit("Going AFK!" f"\nReason: `{string}`")
+            await afk_e.edit("Im AFK From Now On!" f"\nReason: `{string}`")
             afkmsg += f"\n**Reason:**\n{string}"
         else:
-            await afk_e.edit("Going AFK!")
+            await afk_e.edit("Im AFK From Now On!")
         if BOTLOG:
             ISAFK = True
             await tgbott.send_message(BOTLOG_CHATID, afkmsg)
