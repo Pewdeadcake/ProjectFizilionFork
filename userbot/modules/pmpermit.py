@@ -27,7 +27,7 @@ DEF_UNAPPROVED_MSG = (
     "Ssup\n"
     "I am Fizilion, @khoi2710's assistant.\n"
     "Apparently I have too much groups and PMs so your message will be somewhere in my telegram.\n"
-    "Be patience, otherwise spamming more then 4 times in my pm will result in a block (becuase of the AI).\n\n\n"
+    "Be patience, otherwise spamming more then 4 times in my pm will result in a block (because of the AI).\n\n\n"
     "*This PM is Powered by Fizilion AI")
 # =================================================================
 
