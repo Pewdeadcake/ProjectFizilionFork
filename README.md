@@ -73,7 +73,7 @@ For further guide you can read this [Guide](https://frost2k5.games/ProjectFizili
 ## Credits
 
 Thanks: 
-* [Myself (a.k.a Pewdeadcake)](https://t.me/khoi2710) - Modder
+* [Myself (a.k.a Pewdeadcake)](https://t.me/WhoIsKhoi) - Modder
 * [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
 * [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
 * [kandnub](https://github.com/kandnub) - TG-UserBot
